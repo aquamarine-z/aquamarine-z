@@ -18,6 +18,10 @@
   <img src="https://media.tenor.com/T0bOWeKz8XkAAAAi/aesthetic-purple.gif" width="100%" alt="purple aesthetic banner" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/aquamarine-z.png" width="130" height="130" style="border-radius: 50%; border: 4px solid #D0B0FF;" alt="My Avatar" />
+</p>
+
 ### 关于我 (About Me)
 
 ʕ•́ᴥ•̀ʔっ 嗨！我是一名热爱技术与设计的前端/全栈开发者（或者正在前行的路上！）<br>

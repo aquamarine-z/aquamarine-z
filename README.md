@@ -34,16 +34,16 @@
 ### <span style="font-size: 26px; vertical-align: sub;">🎨</span> 我的技术调色盘 (Tech Stack)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-E8F4FF?style=flat-square&logo=typescript&logoColor=3B82F6" />
-  <img src="https://img.shields.io/badge/React-E8F4FF?style=flat-square&logo=react&logoColor=0EA5E9" />
-  <img src="https://img.shields.io/badge/Vue.js-E2FFED?style=flat-square&logo=vuedotjs&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/TailwindCSS-E8F4FF?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Zustand-FFF6E0?style=flat-square&logo=zustand&logoColor=1F2937" />
-  <img src="https://img.shields.io/badge/Shadcn%20UI-EDE4FF?style=flat-square&logo=shadcnui&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Compose%20Multiplatform-EDE4FF?style=flat-square&logo=jetpackcompose&logoColor=4285F4" />
-  <img src="https://img.shields.io/badge/Kotlin-EDE4FF?style=flat-square&logo=kotlin&logoColor=7F52FF" />
-  <img src="https://img.shields.io/badge/Flutter-E8F4FF?style=flat-square&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/Material%20Design-FFF0E5?style=flat-square&logo=materialdesign&logoColor=757575" />
+  <img src="https://img.shields.io/badge/TypeScript-E8F4FF?style=flat&logo=typescript&logoColor=3B82F6" />
+  <img src="https://img.shields.io/badge/React-E8F4FF?style=flat&logo=react&logoColor=0EA5E9" />
+  <img src="https://img.shields.io/badge/Vue.js-E2FFED?style=flat&logo=vuedotjs&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/TailwindCSS-E8F4FF?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Zustand-FCE7F3?style=flat&logo=zustand&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/Shadcn%20UI-F3F4F6?style=flat&logo=shadcnui&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Compose%20Multiplatform-E8F4FF?style=flat&logo=jetpackcompose&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Kotlin-EDE4FF?style=flat&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Flutter-E8F4FF?style=flat&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Material%20Design-EDE4FF?style=flat&logo=materialdesign&logoColor=757575" />
 </p>
 
 ---

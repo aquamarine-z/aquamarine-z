@@ -48,7 +48,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="30" height="30" style="vertical-align: sub;"/> Github 魔法书 (Stats)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Monocle" width="30" height="30" style="vertical-align: sub;"/> Github 魔法书 (Stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aquamarine-z&show_icons=true&hide_border=true&bg_color=FFF5F7&title_color=FF8CBA&text_color=7A7A7A&icon_color=82C8FF" height="180px"/>
@@ -60,14 +60,14 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sparkles.png" alt="Sparkles" width="30" height="30" style="vertical-align: sub;"/> 戳我串门 (Connect with Me)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Wink" width="30" height="30" style="vertical-align: sub;"/> 戳我串门 (Connect with Me)
 
 <br>
 <a href="https://aquamarine-z.github.io/aqua-blog-fuwari/">
-  <img src="https://img.shields.io/badge/🌸_参观我的魔法小店_(Blog)-FFB3BA?style=for-the-badge&logoColor=white&labelColor=FFB3BA&color=FFB3BA" alt="Blog" />
+  <img src="https://img.shields.io/badge/🌸_参观我的魔法小店_(Blog)-FF88BB?style=flat&logoColor=white&labelColor=FF88BB&color=FF88BB" alt="Blog" />
 </a>
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cat%20with%20Wry%20Smile.png" width="80" alt="cute cat" />
+<img src="https://media.tenor.com/J8tVtzg21hMAAAAi/peach-cat-cute.gif" width="120" alt="cute cat" />
 
 </div>

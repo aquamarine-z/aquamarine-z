@@ -14,7 +14,11 @@
 
 ---
 
-### <span style="font-size: 26px; vertical-align: sub;">🦄</span> 关于我 (About Me)
+<p align="center">
+  <img src="https://media.tenor.com/T0bOWeKz8XkAAAAi/aesthetic-purple.gif" width="100%" alt="purple aesthetic banner" />
+</p>
+
+### <img src="https://github.com/aquamarine-z.png" width="35" height="35" style="border-radius: 50%; vertical-align: sub;" /> 关于我 (About Me)
 
 ʕ•́ᴥ•̀ʔっ 嗨！我是一名热爱技术与设计的前端/全栈开发者（或者正在前行的路上！）<br>
 ✨ **探索中**：正在不断学习新奇有趣的开发技术~ <br>

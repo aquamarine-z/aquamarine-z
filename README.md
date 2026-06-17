@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D0B0FF&height=280&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Blogger&descSize=20&descColor=ffffff&descAlignY=55" width="100%"/>
 
-<div style="font-size: 45px; margin-top: -30px; position: relative; z-index: 10;">✨</div>
-
 # ✧･ﾟ: *✧･ﾟ:* 欢迎来到我的奇妙世界 *:･ﾟ✧*:･ﾟ✧
 
 <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=800&size=24&pause=1000&color=B088FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Hello,+I'm+aquamarine-z+!+%E2%9C%A8;%F0%9F%92%9C+Welcome+to+my+Github+Profile+!+%F0%9F%92%9C;%F0%9F%92%AB+Let's+build+something+beautiful+!+%F0%9F%92%AB" alt="Typing SVG" />

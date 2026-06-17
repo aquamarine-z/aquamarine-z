@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/aquamarine-z.png" width="130" height="130" style="border-radius: 50%; border: 4px solid #D0B0FF;" alt="My Avatar" />
+  <img src="./avatar.svg" width="138" height="138" alt="My Avatar" />
 </p>
 
 ### 关于我 (About Me)

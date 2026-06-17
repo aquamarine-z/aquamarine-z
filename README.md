@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D0B0FF&height=280&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Blogger&descSize=20&descColor=ffffff&descAlignY=55" width="100%"/>
 
 <div style="font-size: 45px; margin-top: -30px; position: relative; z-index: 10;">✨</div>
 

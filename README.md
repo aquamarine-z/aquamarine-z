@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D0B0FF&height=280&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Blogger&descSize=20&descColor=ffffff&descAlignY=55" width="100%"/>
 
-# ✧･ﾟ: *✧･ﾟ:* 欢迎来到我的奇妙世界 *:･ﾟ✧*:･ﾟ✧
+# ✧･ﾟ: *✧･ﾟ:* Welcome to my Universe *:･ﾟ✧*:･ﾟ✧
 
 <img src="https://readme-typing-svg.herokuapp.com?font=M+PLUS+Rounded+1c&weight=800&size=24&pause=1000&color=B088FF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Hello,+I'm+aquamarine-z+!+%E2%9C%A8;%F0%9F%92%9C+Welcome+to+my+Github+Profile+!+%F0%9F%92%9C;%F0%9F%92%AB+Let's+build+something+beautiful+!+%F0%9F%92%AB" alt="Typing SVG" />
 
-*“在色彩与逻辑的交织中，用代码构建优雅的世界。”* 🎨✨
+*“Weaving colors into logic, breathing life into code, and crafting elegant universes pixel by pixel.”* 🎨✨
 
 <img src="https://komarev.com/ghpvc/?username=aquamarine-z&color=D0B0FF&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
 
@@ -20,16 +20,16 @@
   <img src="./avatar.svg" width="138" height="138" alt="My Avatar" />
 </p>
 
-### 关于我 (About Me)
+### About Me
 
-ʕ•́ᴥ•̀ʔっ 嗨！我是一名热爱技术与设计的前端/全栈开发者（或者正在前行的路上！）<br>
-✨ **探索中**：正在不断学习新奇有趣的开发技术~ <br>
-🎨 **美学主义**：比起千篇一律，我更喜欢将色彩与活力注入代码之中！ <br>
-📝 **日常掉落**：偶尔会在我的[**个人博客**](https://aquamarine-z.github.io/aqua-blog-fuwari/)上写写文章，记录灵光一闪的瞬间。<br>
+ʕ•́ᴥ•̀ʔっ Hello there! I'm a Front-End / Full-Stack Developer deeply in love with the beautiful collision of technology and design.<br>
+✨ **Endless Exploration**: Always on an adventurous journey, hunting down fascinating new technologies and creative frameworks. <br>
+🎨 **Aesthetic Driven**: Refusing the mundane—I thrive on injecting vibrant colors, smooth interactions, and pure vitality into every single line of code! <br>
+📝 **Capturing Sparks**: I occasionally drop thoughts on my [**Personal Blog**](https://aquamarine-z.github.io/aqua-blog-fuwari/), crystallizing those fleeting moments of inspiration and technical epiphanies.<br>
 
 ---
 
-### <span style="font-size: 26px; vertical-align: sub;">🎨</span> 我的技术调色盘 (Tech Stack)
+### <span style="font-size: 26px; vertical-align: sub;">🎨</span> Tech Palette
 
 <p align="center">
   <picture>
@@ -86,7 +86,7 @@
 
 ---
 
-### <span style="font-size: 26px; vertical-align: sub;">🔮</span> Github 魔法书 (Stats)
+### <span style="font-size: 26px; vertical-align: sub;">🔮</span> GitHub Grimoire
 
 <p align="center">
   <picture>
@@ -110,7 +110,7 @@
 
 ---
 
-### <span style="font-size: 26px; vertical-align: sub;">✉️</span> 戳我串门 (Connect with Me)
+### <span style="font-size: 26px; vertical-align: sub;">✉️</span> Let's Connect
 
 <br>
 <a href="https://aquamarine-z.github.io/aqua-blog-fuwari/">

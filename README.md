@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D0B0FF&height=280&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Blogger&descSize=20&descColor=ffffff&descAlignY=55" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="50" height="50" style="margin-top: -30px; position: relative; z-index: 10;" />
+<div style="font-size: 45px; margin-top: -30px; position: relative; z-index: 10;">✨</div>
 
 # ✧･ﾟ: *✧･ﾟ:* 欢迎来到我的奇妙世界 *:･ﾟ✧*:･ﾟ✧
 
@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Halo" width="30" height="30" style="vertical-align: sub;"/> 关于我 (About Me)
+### <span style="font-size: 26px; vertical-align: sub;">🦄</span> 关于我 (About Me)
 
 ʕ•́ᴥ•̀ʔっ 嗨！我是一名热爱技术与设计的前端/全栈开发者（或者正在前行的路上！）<br>
 ✨ **探索中**：正在不断学习新奇有趣的开发技术~ <br>
@@ -23,7 +23,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Palette" width="30" height="30" style="vertical-align: sub;"/> 我的技术调色盘 (Tech Stack)
+### <span style="font-size: 26px; vertical-align: sub;">🎨</span> 我的技术调色盘 (Tech Stack)
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFDFBA?style=flat-square&logo=javascript&logoColor=F59E0B" />
@@ -38,10 +38,9 @@
   <img src="https://img.shields.io/badge/Docker-BAE1FF?style=flat-square&logo=docker&logoColor=0EA5E9" />
 </p>
 
-
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Monocle" width="30" height="30" style="vertical-align: sub;"/> Github 魔法书 (Stats)
+### <span style="font-size: 26px; vertical-align: sub;">🔮</span> Github 魔法书 (Stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aquamarine-z&show_icons=true&hide_border=true&bg_color=FAF5FF&title_color=B088FF&text_color=7A7A7A&icon_color=82C8FF" height="180px"/>
@@ -53,7 +52,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Wink" width="30" height="30" style="vertical-align: sub;"/> 戳我串门 (Connect with Me)
+### <span style="font-size: 26px; vertical-align: sub;">✉️</span> 戳我串门 (Connect with Me)
 
 <br>
 <a href="https://aquamarine-z.github.io/aqua-blog-fuwari/">

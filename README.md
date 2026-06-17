@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3BA&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&desc=Front-End%20Developer%20%7C%20Blogger&descSize=20&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB3BA&height=280&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Blogger&descSize=20&descColor=ffffff&descAlignY=55" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="50" height="50" style="margin-top: -30px; position: relative; z-index: 10;" />
 

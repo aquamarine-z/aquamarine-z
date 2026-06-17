@@ -10,7 +10,7 @@
 
 *“在色彩与逻辑的交织中，用代码构建优雅的世界。”* 🎨✨
 
-<img src="https://komarev.com/ghpvc/?username=aquamarine-z&color=FFB3BA&style=flat-square&label=🌟+访客数" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=aquamarine-z&color=FFB3BA&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
 
 ---
 
@@ -64,7 +64,7 @@
 
 <br>
 <a href="https://aquamarine-z.github.io/aqua-blog-fuwari/">
-  <img src="https://img.shields.io/badge/🌸_参观我的魔法小店_(Blog)-FF88BB?style=flat&logoColor=white&labelColor=FF88BB&color=FF88BB" alt="Blog" />
+  <img src="https://img.shields.io/badge/-%F0%9F%8C%B8_%E5%8F%82%E8%A7%82%E6%88%91%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%8F%E5%BA%97_(Blog)-FF4D94?style=flat" alt="Blog" />
 </a>
 <br><br>
 

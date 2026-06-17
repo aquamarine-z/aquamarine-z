@@ -38,13 +38,6 @@
   <img src="https://img.shields.io/badge/Docker-BAE1FF?style=flat-square&logo=docker&logoColor=0EA5E9" />
 </p>
 
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" style="vertical-align: sub;"/> 荣誉陈列室 (Trophies)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aquamarine-z&theme=pastel&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 ---
 
@@ -64,7 +57,7 @@
 
 <br>
 <a href="https://aquamarine-z.github.io/aqua-blog-fuwari/">
-  <img src="https://img.shields.io/badge/-%F0%9F%94%AE_%E5%8F%82%E8%A7%82%E6%88%91%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%8F%E5%BA%97_(Blog)-A375FF?style=flat" alt="Blog" />
+  <img src="./blog-button.svg" alt="Blog" />
 </a>
 <br><br>
 

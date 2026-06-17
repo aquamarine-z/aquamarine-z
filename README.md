@@ -49,11 +49,23 @@
 ### <span style="font-size: 26px; vertical-align: sub;">🔮</span> Github 魔法书 (Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aquamarine-z&show_icons=true&hide_border=true&bg_color=FAF5FF&title_color=B088FF&text_color=7A7A7A&icon_color=82C8FF" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine-z&layout=compact&hide_border=true&bg_color=FAF5FF&title_color=B088FF&text_color=7A7A7A" height="180px"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aquamarine-z&show_icons=true&hide_border=true&bg_color=161224&title_color=D0B0FF&text_color=A395C6&icon_color=82C8FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aquamarine-z&show_icons=true&hide_border=true&bg_color=FAF5FF&title_color=B088FF&text_color=7A7A7A&icon_color=82C8FF">
+    <img src="https://github-readme-stats.vercel.app/api?username=aquamarine-z&show_icons=true&hide_border=true&bg_color=FAF5FF&title_color=B088FF&text_color=7A7A7A&icon_color=82C8FF" height="180px"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine-z&layout=compact&hide_border=true&bg_color=161224&title_color=D0B0FF&text_color=A395C6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine-z&layout=compact&hide_border=true&bg_color=FAF5FF&title_color=B088FF&text_color=7A7A7A">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquamarine-z&layout=compact&hide_border=true&bg_color=FAF5FF&title_color=B088FF&text_color=7A7A7A" height="180px"/>
+  </picture>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquamarine-z&hide_border=true&background=FAF5FF&ring=D0B0FF&fire=B088FF&currStreakNum=7A7A7A&currStreakLabel=7A7A7A&sideNums=7A7A7A&sideLabels=7A7A7A&dates=7A7A7A" width="80%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aquamarine-z&hide_border=true&background=161224&ring=D0B0FF&fire=B088FF&currStreakNum=A395C6&currStreakLabel=A395C6&sideNums=A395C6&sideLabels=A395C6&dates=A395C6">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aquamarine-z&hide_border=true&background=FAF5FF&ring=D0B0FF&fire=B088FF&currStreakNum=7A7A7A&currStreakLabel=7A7A7A&sideNums=7A7A7A&sideLabels=7A7A7A&dates=7A7A7A">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aquamarine-z&hide_border=true&background=FAF5FF&ring=D0B0FF&fire=B088FF&currStreakNum=7A7A7A&currStreakLabel=7A7A7A&sideNums=7A7A7A&sideLabels=7A7A7A&dates=7A7A7A" width="80%" />
+  </picture>
 </p>
 
 ---

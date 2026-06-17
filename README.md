@@ -18,7 +18,7 @@
   <img src="https://media.tenor.com/T0bOWeKz8XkAAAAi/aesthetic-purple.gif" width="100%" alt="purple aesthetic banner" />
 </p>
 
-### <img src="https://github.com/aquamarine-z.png" width="35" height="35" style="border-radius: 50%; vertical-align: sub;" /> 关于我 (About Me)
+### 关于我 (About Me)
 
 ʕ•́ᴥ•̀ʔっ 嗨！我是一名热爱技术与设计的前端/全栈开发者（或者正在前行的路上！）<br>
 ✨ **探索中**：正在不断学习新奇有趣的开发技术~ <br>
@@ -30,16 +30,16 @@
 ### <span style="font-size: 26px; vertical-align: sub;">🎨</span> 我的技术调色盘 (Tech Stack)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FFDFBA?style=flat-square&logo=javascript&logoColor=F59E0B" />
   <img src="https://img.shields.io/badge/TypeScript-BAE1FF?style=flat-square&logo=typescript&logoColor=3B82F6" />
-  <img src="https://img.shields.io/badge/Vue.js-BAFFC9?style=flat-square&logo=vuedotjs&logoColor=10B981" />
   <img src="https://img.shields.io/badge/React-BAE1FF?style=flat-square&logo=react&logoColor=0EA5E9" />
-  <img src="https://img.shields.io/badge/Node.js-BAFFC9?style=flat-square&logo=nodedotjs&logoColor=22C55E" />
-  <img src="https://img.shields.io/badge/HTML5-D0B0FF?style=flat-square&logo=html5&logoColor=EF4444" />
-  <img src="https://img.shields.io/badge/CSS3-BAE1FF?style=flat-square&logo=css3&logoColor=3B82F6" />
-  <img src="https://img.shields.io/badge/Git-FFDFBA?style=flat-square&logo=git&logoColor=F97316" />
-  <img src="https://img.shields.io/badge/Python-FFFFBA?style=flat-square&logo=python&logoColor=EAB308" />
-  <img src="https://img.shields.io/badge/Docker-BAE1FF?style=flat-square&logo=docker&logoColor=0EA5E9" />
+  <img src="https://img.shields.io/badge/Vue.js-BAFFC9?style=flat-square&logo=vuedotjs&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/TailwindCSS-BAE1FF?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Zustand-FFE5B4?style=flat-square&logo=zustand&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/Shadcn%20UI-D0B0FF?style=flat-square&logo=shadcnui&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Compose%20Multiplatform-D0B0FF?style=flat-square&logo=jetpackcompose&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Kotlin-D0B0FF?style=flat-square&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/Flutter-BAE1FF?style=flat-square&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/Material%20Design-FFDFBA?style=flat-square&logo=materialdesign&logoColor=757575" />
 </p>
 
 ---
